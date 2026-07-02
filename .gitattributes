@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Explicitly force LF (Unix) line endings on checkout for specific files
+*.json text eol=lf
+*.lua text eol=lf
+*.md text eol=lf
+
+# Deny Git from modifying line endings for binary data (images, archives, etc.)
+*.bmp binary
+*.jpeg binary
+*.jpg binary
+*.png binary
