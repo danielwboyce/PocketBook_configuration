@@ -1,0 +1,14 @@
+{
+  "2--ui-font.lua": "518cff7568a8a7ef9e2f62fe9e77aece",
+  "2-BrowseByMetadata.lua": "27b1b50e35f2c0a30bc180a170e29e57",
+  "2-custom-highlight-colors.lua": "d7ba87d5cbeba206f53845cf2e2f4d73",
+  "2-customise-progress-bar-colour-gui.lua": "459b57f87d60bf439f7f579c47d73e95",
+  "2-justify-status-bar.lua": "1d0f1b2a9c0d0bd850e504029eb0cf87",
+  "2-reader-header-print-edition.lua": "f1e983716fb6652750952cd04c3bd98c",
+  "2-reference-page-count.lua": "a060b743e5c6ed23485bf95cb01ec84f",
+  "2-statusbar-better-compact.lua": "ca97573023dd253d20a02f98d18c47fa",
+  "2-statusbar-cycle-presets.lua": "8eabc7bfd7f5118778729313ff7e2a7c",
+  "2-statusbar-thin-chapter.lua": "dd986081e168642bdb0d6284cd368162",
+  "2-update-patches.lua": "a45452944626b8fb9d6ce73afc02b99b",
+  "guard.lua": "c4043ecd259ff1c4ff4b77772b81a819"
+}
