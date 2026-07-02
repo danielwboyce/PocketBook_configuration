@@ -1,6 +1,6 @@
--- NAME IT "2--ui-font.lua": it NEEDS to be the 1st user patch to be executed
--- 
 -- Copied from from https://github.com/sebdelsol/KOReader.patches/blob/main/2--ui-font.lua at commit c6602d8a017d1c839beca97c44200ffb94297ac5
+-- 
+-- NAME IT "2--ui-font.lua": it NEEDS to be the 1st user patch to be executed
 
 local Font = require("ui/font")
 local Version = require("version")
